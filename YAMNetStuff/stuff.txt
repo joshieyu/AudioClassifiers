@@ -1,0 +1,3 @@
+# Example usage
+input_directory = "./resampledData"
+output_directory = "./spectrogramData"
